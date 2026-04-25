@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Este circuito esta diseñado con las compuertas logicas: And, Or, Not, Nand los pines de entrada estan conectados a cada compuerta
 
 ## How to test
 
-Explain how to use your project
+Para probar este circuito utilzamos un dip switch y un display de 7 segmentos para reflejar la funcionalidad de las compuertas logicas
 
 ## External hardware
 
